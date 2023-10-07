@@ -1,0 +1,37 @@
+---
+all:
+  hosts:  
+    switch0.16:
+      ansible_host: 172.16.80.11
+    switch0.22:
+      ansible_host: 172.16.80.12
+    switch1.03:
+      ansible_host: 172.16.80.20
+    switch1.38:
+      ansible_host: 172.16.80.13
+    switch1.47:
+      ansible_host: 172.16.80.14
+    switch2.22:
+      ansible_host: 172.16.80.17
+    switch2.28:
+      ansible_host: 172.16.80.15
+    switch2.30:
+      ansible_host: 172.16.80.16
+    switch3.03:
+      ansible_host: 172.16.80.21
+    switch3.18:
+      ansible_host: 172.16.80.10
+    switch3.29:
+      ansible_host: 172.16.80.18
+    switch3.37:
+      ansible_host: 172.16.80.19
+    switch-new.1pp:
+      ansible_host: 172.16.80.251
+    switch-new.3np:
+      ansible_host: 172.16.80.249
+    switch-new.4np:
+      ansible_host: 172.16.80.250
+    switch-new.5np:
+      ansible_host: 172.16.80.247
+    rd1.38:
+      ansible_host: 172.16.80.13

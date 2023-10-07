@@ -1,0 +1,61 @@
+---
+# Get switch inventory
+
+
+- name: Get switch inventory
+  hosts: all
+  gather_facts: no
+  connection: ansible.netcommon.network_cli
+  vars:
+    tmp_folder: "./tmp"
+    output_file: "output/sw_inventory.csv"
+  vars_files:
+    - "credentials.yml"  
+  tasks:
+    - name: Deleting tmp dir
+      file: path="{{ tmp_folder }}" state=absent
+      delegate_to: localhost
+      run_once: true
+
+    - name: Creating tmp dir
+      file: path="{{ tmp_folder }}" state=directory
+      delegate_to: localhost
+      run_once: true
+
+    - name: Get switch inventory info
+      ansible.utils.cli_parse:
+        command: "show inventory"
+        parser:
+          name: ansible.utils.textfsm
+          template_path: templates/ios_show_inventory.textfsm
+        set_fact: sw_inventory
+
+    - name: Save partial outputs
+      ansible.builtin.lineinfile:
+        create: yes
+        mode: '0660'
+        line: "{{ inventory_hostname }};{{ item.NAME }};{{ item.DESCR }};{{ item.PID }};{{ item.VID }};{{ item.SN }}"
+        path: "{{ tmp_folder }}/{{ inventory_hostname }}.txt"  
+      loop: "{{ sw_inventory }}"  
+      delegate_to: localhost
+
+    - name: Generate output log
+      ansible.builtin.assemble:
+        src: "{{ tmp_folder }}"
+        dest: "{{ output_file }}"
+      delegate_to: localhost  
+      run_once: true
+    
+    - name: Create header in output file
+      lineinfile:
+        path: "{{ output_file }}"
+        insertbefore: BOF
+        line: "HOSTNAME;ITEM NAME;DESCRIPTION;PID;VID;SN"
+
+    - name: Deleting temp dir
+      file: path="{{ tmp_folder }}" state=absent
+      delegate_to: localhost
+      run_once: true 
+      
+      
+   

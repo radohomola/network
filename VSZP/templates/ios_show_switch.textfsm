@@ -1,0 +1,16 @@
+# show switch e.q.:
+# Switch/Stack Mac Address : 0022.0c71.4c00
+#                                            H/W   Current
+# Switch#  Role   Mac Address     Priority Version  State 
+# ----------------------------------------------------------
+#  1       Member 0000.0000.0000     0      0       Provisioned         
+# *2       Master 0022.0c71.4c00     1      0       Ready 
+Value SWITCH_NUM (.\d+|\*\d+|\d+)
+Value ROLE (\S+)
+Value MAC (\S+)
+Value PRIORITY (\S+)
+Value HW_VER (\S+)
+Value STATE (\S+)
+
+Start
+  ^${SWITCH_NUM}\s+${ROLE}\s+${MAC}\s+${PRIORITY}\s+${HW_VER}\s+${STATE} -> Record

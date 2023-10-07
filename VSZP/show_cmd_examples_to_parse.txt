@@ -1,0 +1,202 @@
+rd0.16-c3750-1#sh inventory
+NAME: "2", DESCR: "WS-C3750-48P"
+PID: WS-C3750-48PS-E   , VID: V06  , SN: FDO1223Y2VT
+
+NAME: "GigabitEthernet2/0/3", DESCR: "1000BaseSX SFP"
+PID: Unspecified       , VID:      , SN: FNS12160H6N
+
+NAME: "GigabitEthernet2/0/4", DESCR: "1000BaseSX SFP"
+PID: Unspecified       , VID:      , SN: FNS12160H77
+
+
+rd0.16-c3750-1#sh swi
+rd0.16-c3750-1#sh switch
+Switch/Stack Mac Address : 0022.0c71.4c00
+                                           H/W   Current
+Switch#  Role   Mac Address     Priority Version  State
+----------------------------------------------------------
+ 1       Member 0000.0000.0000     0      0       Provisioned
+*2       Master 0022.0c71.4c00     1      0       Ready
+
+
+rd0.16-c3750-1#sh power inline
+
+Module   Available     Used     Remaining
+          (Watts)     (Watts)    (Watts)
+------   ---------   --------   ---------
+2           370.0       77.0       293.0
+Interface Admin  Oper       Power   Device              Class Max
+                            (Watts)
+--------- ------ ---------- ------- ------------------- ----- ----
+Fa1/0/1   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/2   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/3   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/4   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/5   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/6   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/7   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/8   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/9   auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/10  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/11  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/12  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/13  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/14  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/15  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/16  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/17  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/18  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/19  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/20  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/21  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/22  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/23  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/24  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/25  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/26  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/27  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/28  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/29  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/30  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/31  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/32  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/33  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/34  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/35  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/36  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/37  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/38  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/39  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/40  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/41  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/42  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/43  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/44  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/45  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/46  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/47  auto   off        0.0     n/a                 n/a   15.4
+Fa1/0/48  auto   off        0.0     n/a                 n/a   15.4
+Fa2/0/1   off    off        0.0     n/a                 n/a   15.4
+Fa2/0/2   off    off        0.0     n/a                 n/a   15.4
+Fa2/0/3   auto   off        0.0     n/a                 n/a   15.4
+Fa2/0/4   off    off        0.0     n/a                 n/a   15.4
+Fa2/0/5   off    off        0.0     n/a                 n/a   15.4
+Interface Admin  Oper       Power   Device              Class Max
+                            (Watts)
+--------- ------ ---------- ------- ------------------- ----- ----
+Fa2/0/6   off    off        0.0     n/a                 n/a   15.4
+Fa2/0/7   off    off        0.0     n/a                 n/a   15.4
+Fa2/0/8   off    off        0.0     n/a                 n/a   15.4
+Fa2/0/9   off    off        0.0     n/a                 n/a   15.4
+Fa2/0/10  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/11  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/12  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/13  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/14  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/15  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/16  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/17  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/18  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/19  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/20  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/21  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/22  auto   off        0.0     n/a                 n/a   15.4
+Fa2/0/23  auto   off        0.0     n/a                 n/a   15.4
+Fa2/0/24  off    off        0.0     n/a                 n/a   15.4
+Fa2/0/25  auto   on         15.4    Ieee PD             0     15.4
+Fa2/0/26  auto   on         15.4    Ieee PD             0     15.4
+Fa2/0/27  auto   on         15.4    Ieee PD             0     15.4
+Fa2/0/28  auto   on         15.4    Ieee PD             0     15.4
+Fa2/0/29  auto   on         15.4    Ieee PD             0     15.4
+
+
+
+
+
+
+
+
+PVLAN
+show interfaces switchport
+Name: Fa2/0/34
+Switchport: Enabled
+Administrative Mode: private-vlan host
+Operational Mode: private-vlan host
+Administrative Trunking Encapsulation: negotiate
+Operational Trunking Encapsulation: native
+Negotiation of Trunking: Off
+Access Mode VLAN: 1 (default)
+Trunking Native Mode VLAN: 1 (default)
+Administrative Native VLAN tagging: enabled
+Voice VLAN: none
+Administrative private-vlan host-association: 13 (Najomcovia-primarna) 12 (Najomcovia)
+Administrative private-vlan mapping: none
+Administrative private-vlan trunk native VLAN: none
+Administrative private-vlan trunk Native VLAN tagging: enabled
+Administrative private-vlan trunk encapsulation: dot1q
+Administrative private-vlan trunk normal VLANs: none
+Administrative private-vlan trunk associations: none
+Administrative private-vlan trunk mappings: none
+Operational private-vlan:
+  13 (Najomcovia-primarna) 12 (Najomcovia)
+Trunking VLANs Enabled: ALL
+Pruning VLANs Enabled: 2-1001
+Capture Mode Disabled
+Capture VLANs Allowed: ALL
+
+
+ACESS
+Name: Fa2/0/48
+Switchport: Enabled
+Administrative Mode: static access
+Operational Mode: static access
+Administrative Trunking Encapsulation: negotiate
+Operational Trunking Encapsulation: native
+Negotiation of Trunking: Off
+Access Mode VLAN: 18 (ParkingSystem)
+Trunking Native Mode VLAN: 1 (default)
+Administrative Native VLAN tagging: enabled
+Voice VLAN: none
+Administrative private-vlan host-association: none
+Administrative private-vlan mapping: none
+Administrative private-vlan trunk native VLAN: none
+Administrative private-vlan trunk Native VLAN tagging: enabled
+Administrative private-vlan trunk encapsulation: dot1q
+Administrative private-vlan trunk normal VLANs: none
+Administrative private-vlan trunk associations: none
+Administrative private-vlan trunk mappings: none
+Operational private-vlan: none
+Trunking VLANs Enabled: ALL
+Pruning VLANs Enabled: 2-1001
+Capture Mode Disabled
+Capture VLANs Allowed: ALL
+
+
+
+
+
+TRUNK PORT
+Name: Gi2/0/3
+Switchport: Enabled
+Administrative Mode: trunk
+Operational Mode: trunk (member of bundle Po2)
+Administrative Trunking Encapsulation: dot1q
+Operational Trunking Encapsulation: dot1q
+Negotiation of Trunking: Off
+Access Mode VLAN: 1 (default)
+Trunking Native Mode VLAN: 1 (default)
+Administrative Native VLAN tagging: enabled
+Voice VLAN: none
+Administrative private-vlan host-association: none
+Administrative private-vlan mapping: none
+Administrative private-vlan trunk native VLAN: none
+Administrative private-vlan trunk Native VLAN tagging: enabled
+Administrative private-vlan trunk encapsulation: dot1q
+Administrative private-vlan trunk normal VLANs: none
+Administrative private-vlan trunk associations: none
+Administrative private-vlan trunk mappings: none
+Operational private-vlan: none
+Trunking VLANs Enabled: 2-100
+Pruning VLANs Enabled: 2-1001
+Capture Mode Disabled
+Capture VLANs Allowed: ALL

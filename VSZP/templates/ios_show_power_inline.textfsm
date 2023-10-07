@@ -1,0 +1,17 @@
+# show power inline e.q.:
+#Interface Admin  Oper       Power   Device              Class Max
+#                            (Watts)
+#--------- ------ ---------- ------- ------------------- ----- ----
+#Fa1/0/1   auto   off        0.0     n/a                 n/a   15.4
+#Fa2/0/25  auto   on         15.4    Ieee PD             0     15.4
+Value IFNAME (Fa\S+|Gi\S+)
+Value ADMIN (off|auto|never)
+Value OPER (on|off)
+Value POWER (\d+.\d+)
+Value DEVICE (n/a|\S+\s\S+)
+Value CLASS (n/a|\d)
+Value MAX (\d+.\d+)
+
+
+Start
+  ^${IFNAME}\s+${ADMIN}\s+${OPER}\s+${POWER}\s+${DEVICE}\s+${CLASS}\s+${MAX} -> Record

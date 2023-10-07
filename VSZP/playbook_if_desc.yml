@@ -1,0 +1,55 @@
+---
+# Get interfaces description and their status
+
+
+- name: Get interfaces description
+  hosts: all
+  gather_facts: no
+  connection: ansible.netcommon.network_cli
+  vars:
+    tmp_folder: "./tmp"
+    output_file: "output/ifdescription.csv"
+  vars_files:
+    - "credentials.yml"  
+  tasks:
+    - name: Deleting tmp dir
+      file: path="{{ tmp_folder }}" state=absent
+      delegate_to: localhost
+      run_once: true
+
+    - name: Creating tmp dir
+      file: path="{{ tmp_folder }}" state=directory
+      delegate_to: localhost
+      run_once: true
+
+    - name: Get if description from devices
+      ansible.utils.cli_parse:
+        command: "show interface description"
+        parser:
+          name: ansible.utils.textfsm
+          template_path: templates/ios_show_if_desc.textfsm
+        set_fact: if_description
+
+    - name: Save partial outputs
+      ansible.builtin.lineinfile:
+        create: yes
+        mode: '0660'
+        line: "{{ inventory_hostname }};{{ item.IFNAME }};{{ item.STATUS }};{{ item.PROTOCOL }};{{ item.DESCRIPTION }}"
+        path: "{{ tmp_folder }}/{{ inventory_hostname }}.txt"  
+      loop: "{{ if_description }}"  
+      delegate_to: localhost
+
+    - name: Generate output log
+      ansible.builtin.assemble:
+        src: "{{ tmp_folder }}"
+        dest: "{{ output_file }}"
+      delegate_to: localhost  
+      run_once: true
+    
+    - name: Deleting temp dir
+      file: path="{{ tmp_folder }}" state=absent
+      delegate_to: localhost
+      run_once: true 
+      
+      
+   
