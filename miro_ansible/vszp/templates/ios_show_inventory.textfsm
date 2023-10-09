@@ -1,0 +1,12 @@
+# show inventory e.q.:
+# NAME: "1", DESCR: "WS-C3750-48P"
+# PID: WS-C3750-48PS-E   , VID: V06  , SN: FDO1223Y2S4
+Value NAME (\S+)
+Value DESCR (\S+)
+Value PID (Unspecified|\S+)
+Value VID (\S+|\s)
+Value SN (\S+)
+
+Start
+  ^NAME:\s*"${NAME}".*DESCR:\s*"${DESCR}.*"
+  ^PID:\s${PID}\s*,\sVID:\s${VID}\s*,\sSN:\s${SN}.* -> Record

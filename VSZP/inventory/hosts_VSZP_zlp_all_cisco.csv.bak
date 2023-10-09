@@ -1,0 +1,15 @@
+﻿HOSTNAME;IP
+devin;10.41.112.1
+z-dc-fw;10.41.10.100
+z-core-r-1;10.41.255.5
+z-ilo-r;10.41.64.11
+z-siem-fw;10.41.64.12
+z-aggr-sw;10.41.64.13
+z-core-sw-1;10.41.255.6
+z-hmc-sw;10.41.65.42
+z-ilo-sw;10.41.65.2
+z-intradmz-sw;10.41.7.16
+z-dmz-sw;10.41.7.13
+z-dmz-sw;10.41.7.13
+ipt-vgw02;10.41.22.95
+z-voice-sw;10.41.22.10

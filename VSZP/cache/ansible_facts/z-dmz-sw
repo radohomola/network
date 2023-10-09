@@ -1,0 +1,552 @@
+{
+    "mac_address_table": [
+        {
+            "MAC_ADDRESS": "0000.5e00.0101",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "152"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "152"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b4b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "152"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.794b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "152"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "152"
+        },
+        {
+            "MAC_ADDRESS": "cc7f.7657.0524",
+            "PORT": [
+                "Gi1/0/18"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "152"
+        },
+        {
+            "MAC_ADDRESS": "0000.0c07.ac01",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "151"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "151"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b4b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "151"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.794b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "151"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "151"
+        },
+        {
+            "MAC_ADDRESS": "0009.0f09.8002",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "211"
+        },
+        {
+            "MAC_ADDRESS": "cc7f.7657.0525",
+            "PORT": [
+                "Gi1/0/19"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "211"
+        },
+        {
+            "MAC_ADDRESS": "0000.0c07.ac01",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a10a.3682",
+            "PORT": [
+                "Po2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a10a.36f8",
+            "PORT": [
+                "Po2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a10a.36f9",
+            "PORT": [
+                "Po2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a111.0e02",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a111.0e78",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a111.0e79",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b40",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b4b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.794b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00e0.1e5d.5c36",
+            "PORT": [
+                "Po2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "a418.758e.75c1",
+            "PORT": [
+                "Po2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "cc7f.7657.0500",
+            "PORT": [
+                "Gi1/0/20"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "108"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.794b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "108"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "108"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f304",
+            "PORT": [
+                "Gi1/0/46"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "305"
+        },
+        {
+            "MAC_ADDRESS": "44ae.2538.bf3f",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "305"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "305"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f304",
+            "PORT": [
+                "Gi1/0/46"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "306"
+        },
+        {
+            "MAC_ADDRESS": "44ae.2538.bf3f",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "306"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "306"
+        },
+        {
+            "MAC_ADDRESS": "0009.0f09.8002",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "510"
+        },
+        {
+            "MAC_ADDRESS": "0015.5d01.01d8",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "510"
+        },
+        {
+            "MAC_ADDRESS": "0015.5d01.0207",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "510"
+        },
+        {
+            "MAC_ADDRESS": "0015.5d01.049c",
+            "PORT": [
+                "Po12"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "510"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "510"
+        },
+        {
+            "MAC_ADDRESS": "0009.0f09.8002",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "520"
+        },
+        {
+            "MAC_ADDRESS": "0015.5d01.03a1",
+            "PORT": [
+                "Po13"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "520"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "520"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "550"
+        },
+        {
+            "MAC_ADDRESS": "0000.0c07.ac01",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "0009.6ba5.6ee3",
+            "PORT": [
+                "Po2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "0030.56f1.887d",
+            "PORT": [
+                "Po2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b4b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.794b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "0000.0c07.ac01",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "150"
+        },
+        {
+            "MAC_ADDRESS": "0009.0f09.8002",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "150"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "150"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b4b",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "150"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "150"
+        },
+        {
+            "MAC_ADDRESS": "00a6.ca06.191c",
+            "PORT": [
+                "Te2/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "20"
+        },
+        {
+            "MAC_ADDRESS": "00a6.ca06.1956",
+            "PORT": [
+                "Te2/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "20"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "530"
+        },
+        {
+            "MAC_ADDRESS": "0009.0f09.8002",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "540"
+        },
+        {
+            "MAC_ADDRESS": "94d4.6926.a2b3",
+            "PORT": [
+                "Te1/0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "540"
+        }
+    ],
+    "sw_inventory": [
+        {
+            "DESCR": "WS-C2960X-48TD-L",
+            "NAME": "1",
+            "PID": "WS-C2960X-48TD-L",
+            "SN": "FCW1904A1KS",
+            "VID": "V03"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "C2960X-STACK",
+            "SN": "FOC20350QQ8",
+            "VID": "V02"
+        },
+        {
+            "DESCR": "SFP-10G-DWDM-3661",
+            "NAME": "TenGigabitEthernet1/0/1",
+            "PID": "DWDM-SFP10G-36.61",
+            "SN": "1536.61+ZRM6U004",
+            "VID": "V01"
+        },
+        {
+            "DESCR": "WS-C2960X-48TD-L",
+            "NAME": "2",
+            "PID": "WS-C2960X-48TD-L",
+            "SN": "FCW2024A1W8",
+            "VID": "V05"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "C2960X-STACK",
+            "SN": "FOC20350SGA",
+            "VID": "V02"
+        },
+        {
+            "DESCR": "SFP-10G-DWDM-3661",
+            "NAME": "TenGigabitEthernet2/0/1",
+            "PID": "DWDM-SFP10G-36.61",
+            "SN": "1536.61+ZRM6U003",
+            "VID": "V01"
+        }
+    ]
+}

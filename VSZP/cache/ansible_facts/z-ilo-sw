@@ -1,0 +1,380 @@
+{
+    "mac_address_table": [
+        {
+            "MAC_ADDRESS": "000c.ce73.c940",
+            "PORT": [
+                "Fa0/47"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "000c.ce73.c959",
+            "PORT": [
+                "Fa0/47"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "0015.5d01.04ac",
+            "PORT": [
+                "Gi0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "0018.ba9f.042e",
+            "PORT": [
+                "Gi0/2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "0023.7d57.e152",
+            "PORT": [
+                "Fa0/19"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "00e0.862c.e330",
+            "PORT": [
+                "Fa0/25"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "0409.73ba.5900",
+            "PORT": [
+                "Fa0/9"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "08f1.ea80.0ea6",
+            "PORT": [
+                "Fa0/42"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "08f1.ea80.2720",
+            "PORT": [
+                "Fa0/33"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "08f1.ea80.b8de",
+            "PORT": [
+                "Fa0/35"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "08f1.ea80.ead4",
+            "PORT": [
+                "Fa0/29"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "08f1.ea80.fdd2",
+            "PORT": [
+                "Fa0/46"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "2c59.e546.17fa",
+            "PORT": [
+                "Fa0/48"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "2c59.e5a6.671b",
+            "PORT": [
+                "Fa0/45"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "3464.a9ea.c7d8",
+            "PORT": [
+                "Fa0/34"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "4cae.a36f.08f4",
+            "PORT": [
+                "Fa0/27"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "5ced.8c3c.446a",
+            "PORT": [
+                "Fa0/36"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "5ced.8c3c.c388",
+            "PORT": [
+                "Fa0/38"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "5ced.8c3c.e3a4",
+            "PORT": [
+                "Fa0/37"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "7010.6fc3.f7d0",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "7010.6fc3.f91a",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "7010.6fc4.0096",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "7010.6fc4.00b4",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "7010.6fc4.2b1e",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "7010.6fc4.3e06",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "7010.6fc4.e6e6",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "843d.c649.128d",
+            "PORT": [
+                "Gi0/1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "8894.7150.1903",
+            "PORT": [
+                "Fa0/39"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "8894.7150.1a83",
+            "PORT": [
+                "Fa0/43"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "9418.8272.5919",
+            "PORT": [
+                "Fa0/5"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "9418.8272.65df",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "9440.c935.576a",
+            "PORT": [
+                "Fa0/44"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "b499.ba60.2023",
+            "PORT": [
+                "Fa0/31"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "c4f5.7caf.6c54",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "c4f5.7caf.6d54",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "e839.351a.9e78",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "e839.351a.9f86",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "eceb.b83d.6333",
+            "PORT": [
+                "Fa0/14"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "eceb.b83d.6334",
+            "PORT": [
+                "Fa0/13"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "f403.4300.826c",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "f403.4300.827c",
+            "PORT": [
+                "Fa0/3"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "103"
+        },
+        {
+            "MAC_ADDRESS": "000c.ce73.c959",
+            "PORT": [
+                "Fa0/47"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "104"
+        },
+        {
+            "MAC_ADDRESS": "0018.ba9f.042e",
+            "PORT": [
+                "Gi0/2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "104"
+        },
+        {
+            "MAC_ADDRESS": "98be.944c.6026",
+            "PORT": [
+                "Fa0/47"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "104"
+        },
+        {
+            "MAC_ADDRESS": "000c.ce73.c959",
+            "PORT": [
+                "Fa0/47"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "0018.ba9f.042e",
+            "PORT": [
+                "Gi0/2"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "98be.944c.6027",
+            "PORT": [
+                "Fa0/47"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        }
+    ]
+}

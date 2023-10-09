@@ -10,6 +10,7 @@ import csv
 from jinja2 import Environment, FileSystemLoader
 import sys
 
+
 def CreateTestbedFile(input_file, output_file):
 
     data={}
@@ -22,7 +23,7 @@ def CreateTestbedFile(input_file, output_file):
         for rows in csvReader:
             key = rows['HOSTNAME']
             data[key] = rows
-    
+
     # Generate testbed from template
     file_loader = FileSystemLoader('./templates')
     env = Environment(loader= file_loader)

@@ -1,13 +1,13 @@
 # Get mac address table
 
 
-- name: Get MAC address table from Cisco devices
+- name: Get MAC address table from Cisco Nexus devices
   hosts: all
   gather_facts: no
   connection: ansible.netcommon.network_cli
   vars:
     tmp_folder: "./tmp"
-    output_file: "output/mac_address_table_sw.csv"
+    output_file: "output/mac_address_table_nexus.csv"
   vars_files:
     - "credentials.yml"  
   tasks:
@@ -23,10 +23,10 @@
 
     - name: Get MAC address table from devices
       ansible.utils.cli_parse:
-        command: "show mac address-table | e CPU"
+        command: "show mac address-table"
         parser:
           name: ansible.utils.textfsm
-          template_path: templates/ios_show_mac-address-table.textfsm
+          template_path: templates/nxos_show_mac_address-table.textfsm
         set_fact: mac_address_table
 
     - name: Save partial outputs

@@ -1,0 +1,2353 @@
+{
+    "mac_address_table": [
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "00d7.8f55.f301",
+            "NTFY": "F",
+            "PORT": "Eth1/40",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "10"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "00d7.8f55.f301",
+            "NTFY": "F",
+            "PORT": "Eth1/40",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "11"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0094.a10a.3693",
+            "NTFY": "F",
+            "PORT": "Po11",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "12"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "00d7.8f55.f301",
+            "NTFY": "F",
+            "PORT": "Eth1/40",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "12"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0094.a10a.3686",
+            "NTFY": "F",
+            "PORT": "Po11",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "18"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "00a2.ee47.d533",
+            "NTFY": "F",
+            "PORT": "Po12",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "100"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "00a2.ee47.d533",
+            "NTFY": "F",
+            "PORT": "Po12",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "101"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04ac",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.0267",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0018.ba9f.042e",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0023.7d57.e152",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "00e0.862c.e330",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "08f1.ea80.0ea6",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "08f1.ea80.2720",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "08f1.ea80.b8de",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "08f1.ea80.ead4",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "08f1.ea80.fdd2",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "2c59.e546.17fa",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "5ced.8c3c.446a",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "5ced.8c3c.c388",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "5ced.8c3c.e3a4",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "7010.6fc3.f7d0",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "7010.6fc3.f91a",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "7010.6fc4.0096",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "7010.6fc4.00b4",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "7010.6fc4.2b1e",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "7010.6fc4.3e06",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "7010.6fc4.e6e6",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "9418.8272.5919",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "9418.8272.65df",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "9440.c935.576a",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b499.ba60.2023",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "de3d.0585.db00",
+            "NTFY": "F",
+            "PORT": "Eth101/1/21",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "de3d.0acb.8500",
+            "NTFY": "F",
+            "PORT": "Eth101/1/20",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "e839.351a.9e78",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "e839.351a.9f86",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4300.826c",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4300.827c",
+            "NTFY": "F",
+            "PORT": "Eth1/18",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "843d.c649.0769",
+            "NTFY": "F",
+            "PORT": "Eth1/35",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "113"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "843d.c649.0481",
+            "NTFY": "F",
+            "PORT": "Eth1/36",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "123"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "843d.c649.0769",
+            "NTFY": "F",
+            "PORT": "Eth1/35",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "133"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "843d.c649.0481",
+            "NTFY": "F",
+            "PORT": "Eth1/36",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "143"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0094.a10a.3695",
+            "NTFY": "F",
+            "PORT": "Po11",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "202"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0094.a10a.3694",
+            "NTFY": "F",
+            "PORT": "Po11",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "203"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0094.a10a.3685",
+            "NTFY": "F",
+            "PORT": "Po11",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "204"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "843d.c649.0769",
+            "NTFY": "F",
+            "PORT": "Eth1/35",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "213"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "843d.c649.0481",
+            "NTFY": "F",
+            "PORT": "Eth1/36",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "223"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0264",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.036d",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.045f",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b25a",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0062.0bb0.8654",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0062.0bb0.952a",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0062.0bb0.ca65",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.43c6.ea90",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.43c6.eb60",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.43c6.f570",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.43c6.f6d0",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.43c6.f710",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.43c6.f750",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0062.0bb0.8654",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0062.0bb0.952a",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0062.0bb0.ca65",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b47a.f18a.47d2",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b47a.f1a5.1a4c",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b47a.f1a5.1a4d",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b47a.f1a5.1c7c",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b47a.f1a5.1c7d",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.43c6.f6d0",
+            "NTFY": "F",
+            "PORT": "Po15",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0292",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "400"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b296",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "400"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0297",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "401"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03b0",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "401"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04a5",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "401"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b7",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "401"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b28d",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "401"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.029e",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02ae",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0380",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03e4",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0425",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0426",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0475",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0483",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.02c2",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.030c",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b216",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b21f",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b295",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b298",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0293",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0294",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.029b",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02a9",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02aa",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0383",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.039e",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0462",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04ad",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b1",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b3",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.0440",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.0441",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b288",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b293",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b294",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b297",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.3ec9",
+            "NTFY": "F",
+            "PORT": "Eth101/1/12",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.3ecb",
+            "NTFY": "F",
+            "PORT": "Eth101/1/12",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.3eed",
+            "NTFY": "F",
+            "PORT": "Eth101/1/4",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.3ef0",
+            "NTFY": "F",
+            "PORT": "Eth101/1/4",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.3ef9",
+            "NTFY": "F",
+            "PORT": "Eth101/1/6",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.3efb",
+            "NTFY": "F",
+            "PORT": "Eth101/1/6",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.4e49",
+            "NTFY": "F",
+            "PORT": "Eth101/1/10",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.4e4b",
+            "NTFY": "F",
+            "PORT": "Eth101/1/10",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.6e5d",
+            "NTFY": "F",
+            "PORT": "Eth101/1/8",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "f403.4306.6e60",
+            "NTFY": "F",
+            "PORT": "Eth101/1/8",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0291",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02ad",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0319",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.037f",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0394",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0398",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03a8",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03a9",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03aa",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03ae",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03b3",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.041d",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.045c",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.045d",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.046a",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.046b",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.048d",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b2",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b6",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.01b4",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.02e9",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.0411",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.047d",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.04c4",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d02.04c5",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b25d",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b266",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b267",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b281",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b28f",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b29e",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.61c7.b805",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.6248.f305",
+            "NTFY": "F",
+            "PORT": "Eth101/1/24",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.6339.3f02",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.63cb.2a03",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.682d.8b03",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.692e.6a02",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.6a81.a503",
+            "NTFY": "F",
+            "PORT": "Eth101/1/24",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.6da9.be02",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.6dc6.2403",
+            "NTFY": "F",
+            "PORT": "Eth101/1/24",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b60c.6e9f.9302",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "de3d.0257.df04",
+            "NTFY": "F",
+            "PORT": "Eth101/1/24",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "de3d.026f.3b02",
+            "NTFY": "F",
+            "PORT": "Eth101/1/24",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "de3d.0342.9402",
+            "NTFY": "F",
+            "PORT": "Eth101/1/25",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03b1",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "405"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04ae",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "405"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7848",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "405"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.784a",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "405"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b289",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "406"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b29d",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "406"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0295",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02b0",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.037e",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.038e",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b282",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b290",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7854",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7856",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7858",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.785a",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0298",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "421"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04a6",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "421"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02af",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0395",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0490",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b5",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b29a",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7840",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7842",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04a9",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04ab",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7804",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7812",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7820",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7830",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7844",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7846",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.784c",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.784e",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7850",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0017.a477.7852",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0257",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.0290",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02a5",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02a6",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.02a7",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.038f",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.039a",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.039d",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.039f",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03a2",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03a4",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03a7",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.03ac",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.049b",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04a4",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04af",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b0",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b4",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b8",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5d01.04b9",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b28b",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b28c",
+            "NTFY": "F",
+            "PORT": "Po16",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b29b",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.5df8.b29c",
+            "NTFY": "F",
+            "PORT": "Po17",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0015.b2ad.4b7a",
+            "NTFY": "F",
+            "PORT": "Eth1/8",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "455"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "0060.e05a.e522",
+            "NTFY": "F",
+            "PORT": "Eth1/9",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "455"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b47a.f1a5.1c7e",
+            "NTFY": "F",
+            "PORT": "Eth1/30",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "456"
+        },
+        {
+            "AGE": "0",
+            "MAC_ADDRESS": "b47a.f1a5.1a4e",
+            "NTFY": "F",
+            "PORT": "Eth1/29",
+            "SECURE": "F",
+            "TYPE": "dynamic",
+            "VLAN_ID": "457"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "-"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "10"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "11"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "18"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "348"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "349"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "100"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "101"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "103"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "113"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "123"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "133"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "143"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "400"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "401"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "402"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "403"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "404"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "405"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "406"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "407"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "421"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "425"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "450"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "451"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "453"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "455"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "456"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "457"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "202"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "203"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "204"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "213"
+        },
+        {
+            "AGE": "-",
+            "MAC_ADDRESS": "843d.c649.128d",
+            "NTFY": "F",
+            "PORT": "sup-eth1(R)",
+            "SECURE": "F",
+            "TYPE": "static",
+            "VLAN_ID": "223"
+        }
+    ],
+    "sw_inventory": [
+        {
+            "DESCR": "Nexus9000",
+            "NAME": "Chassis",
+            "PID": "",
+            "SN": "",
+            "VID": ""
+        }
+    ]
+}

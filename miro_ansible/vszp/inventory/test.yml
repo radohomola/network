@@ -1,0 +1,5 @@
+---
+all:
+  hosts:  
+    switch0.16:
+      ansible_host: 172.16.80.11

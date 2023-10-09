@@ -1,0 +1,81 @@
+{
+    "sw_inventory": [
+        {
+            "DESCR": "Cisco",
+            "NAME": "Chassis",
+            "PID": "ASR1001-X",
+            "SN": "FXS2017Q2RY",
+            "VID": "V02"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "ASR1001-X-PWR-AC",
+            "SN": "LIT2032296C",
+            "VID": "V01"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "ASR1001-X-PWR-AC",
+            "SN": "LIT203229NU",
+            "VID": "V01"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "SFP-10G-SR",
+            "SN": "SG6H750042",
+            "VID": "A"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "SFP-10G-SR",
+            "SN": "SG6H750037",
+            "VID": "A"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "SFP-GE-T",
+            "SN": "TF77650419",
+            "VID": "B"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "SFP-GE-T",
+            "SN": "TF77650332",
+            "VID": "B"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "SFP-GE-T",
+            "SN": "TF77650336",
+            "VID": "B"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "SFP-GE-T",
+            "SN": "TF77650330",
+            "VID": "B"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "SP7041-E",
+            "SN": "MTC171608DK",
+            "VID": "E"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "ASR1001-X",
+            "SN": "JAE203508SJ",
+            "VID": "V02"
+        }
+    ]
+}

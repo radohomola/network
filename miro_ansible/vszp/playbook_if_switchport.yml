@@ -1,13 +1,14 @@
-# Get mac address table
+---
+# Get interfaces switchport status
 
 
-- name: Get MAC address table from Cisco devices
+- name: Get interfaces switchport status
   hosts: all
   gather_facts: no
   connection: ansible.netcommon.network_cli
   vars:
     tmp_folder: "./tmp"
-    output_file: "output/mac_address_table_sw.csv"
+    output_file: "output/ifswitchport.csv"
   vars_files:
     - "credentials.yml"  
   tasks:
@@ -21,21 +22,21 @@
       delegate_to: localhost
       run_once: true
 
-    - name: Get MAC address table from devices
+    - name: Get if switchport state from devices
       ansible.utils.cli_parse:
-        command: "show mac address-table | e CPU"
+        command: "show interfaces switchport"
         parser:
           name: ansible.utils.textfsm
-          template_path: templates/ios_show_mac-address-table.textfsm
-        set_fact: mac_address_table
+          template_path: templates/ios_show_if_switchport.textfsm
+        set_fact: if_switchport
 
     - name: Save partial outputs
       ansible.builtin.lineinfile:
         create: yes
         mode: '0660'
-        line: "{{ inventory_hostname }};{{ item.VLAN_ID }};{{ item.MAC_ADDRESS }};{{ item.TYPE }};{{ item.PORT }}"
-        path: "{{ tmp_folder }}/{{ inventory_hostname }}.txt"
-      loop: "{{ mac_address_table }}"
+        line: "{{ inventory_hostname }};{{ item.IFNAME }};{{ item.SWITCHPORT }};{{ item.ADMIN_MODE }};{{ item.OPER_MODE }};{{ item.ADMIN_TRUNK }};{{ item.OPER_TRUNK }};{{ item.ACCESS_MODE_VLAN }};{{ item.NATIVE_VLAN }};{{ item.PRIV_VLAN }};{{ item.TRUNK_VLAN }}"
+        path: "{{ tmp_folder }}/{{ inventory_hostname }}.txt"  
+      loop: "{{ if_switchport }}"  
       delegate_to: localhost
 
     - name: Generate output log
@@ -44,14 +45,11 @@
         dest: "{{ output_file }}"
       delegate_to: localhost  
       run_once: true
-
-    - name: Create header in output file
-      lineinfile:
-        path: "{{ output_file }}"
-        insertbefore: BOF
-        line: "HOSTNAME;VLAN_ID;MAC_ADDRESS;TYPE;PORT;"
-
+    
     - name: Deleting temp dir
       file: path="{{ tmp_folder }}" state=absent
       delegate_to: localhost
       run_once: true 
+      
+      
+   

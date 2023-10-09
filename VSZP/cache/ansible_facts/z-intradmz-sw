@@ -1,0 +1,157 @@
+{
+    "mac_address_table": [
+        {
+            "MAC_ADDRESS": "0000.0c07.ac01",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a10a.3682",
+            "PORT": [
+                "Gi0/22"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a10a.36f8",
+            "PORT": [
+                "Gi0/22"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a10a.36f9",
+            "PORT": [
+                "Gi0/22"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0094.a111.0e02",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b40",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b4b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.7940",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.794b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "00e0.1e5d.5c36",
+            "PORT": [
+                "Gi0/19"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "a055.4fe6.5eac",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "154"
+        },
+        {
+            "MAC_ADDRESS": "0000.0c07.ac01",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "0009.6ba5.6ee3",
+            "PORT": [
+                "Gi0/4"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f34b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.1b4b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f81.794b",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        },
+        {
+            "MAC_ADDRESS": "a055.4fe6.5eac",
+            "PORT": [
+                "Po1"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "105"
+        }
+    ],
+    "sw_inventory": [
+        {
+            "DESCR": "WS-C2960G-24TC-L",
+            "NAME": "1",
+            "PID": "WS-C2960G-24TC-L",
+            "SN": "FOC1617V29D",
+            "VID": "V07"
+        }
+    ]
+}

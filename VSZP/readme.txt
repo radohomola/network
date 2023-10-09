@@ -35,12 +35,14 @@ ansible-vault decrypt credentials.yml
 ansible-vault encrypt credentials.yml
 
 5. convert  cvs to yml
-phyton3 testbed_gen.py -i inventory/test.yml -o inventory/test.yml
-hosts_VSZP_zlp2_sw.yml
+python3 testbed_gen.py -i inventory/test.csv -o inventory/test.yml
+hosts_VSZP_zlp_sw.yml
 
 6. Spustenie playbooku:
-ansible-playbook -vv -i inventory/hosts_VSZP_zlp2_sw.yml playbook_if_desc.yml
-ansible-playbook -vv -i inventory/hosts_VSZP_zlp2_sw.yml playbook_if_sw_ios_mac.yml
+ansible-playbook -vv -i inventory/hosts_VSZP_zlp_sw.yml playbook_if_ios_desc.yml
+ansible-playbook -vv -i inventory/hosts_VSZP_zlp_sw.yml playbook_if_sw_ios_mac.yml
+ansible-playbook -vv -i inventory/hosts_VSZP_zlp_all_cisco.yml playbook_if_ios_show_inventory.yml
+ansible-playbook -vv -i inventory/hosts_VSZP_zlp_all_cisco.yml playbook_if_ios_show_inventory.yml --limit devin
 
 
 Online textfsm parser: https://textfsm.nornir.tech/

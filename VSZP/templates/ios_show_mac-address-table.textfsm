@@ -3,7 +3,7 @@
 #  152    0000.5e00.0101    DYNAMIC     Te1/0/1
 #  152    00d7.8f55.f34b    DYNAMIC     Po1
 #  152    00d7.8f81.1b4b    DYNAMIC     Te1/0/1
-Value MAC_AADRESS ([0-9a-fA-F]{4}\.[0-9a-fA-F]{4}\.[0-9a-fA-F]{4})
+Value MAC_ADDRESS ([0-9a-fA-F]{4}\.[0-9a-fA-F]{4}\.[0-9a-fA-F]{4})
 Value TYPE (\S+)
 Value VLAN_ID (\S+)
 Value List PORT ([^,\s]+)
@@ -18,7 +18,7 @@ Start
   ^Time\s+source\s+is
 
 TYPE1
-  ^${MAC_AADRESS}\s+${TYPE}\s+${VLAN_ID}\s+${PORT}$$ -> Record
+  ^${MAC_ADDRESS}\s+${TYPE}\s+${VLAN_ID}\s+${PORT}$$ -> Record
   ^-+\s+-+
   ^Displaying\s+entries
   ^Destination\s+Address\s+Address\s+Type\s+VLAN\s+Destination\s+Port
@@ -42,19 +42,19 @@ TYPE2
   ^\s{20}\s+([^,\s]+(\s+|,\s*)){4}${PORT},*\s*$$
   ^\s{20}\s+([^,\s]+(\s+|,\s*)){5}${PORT}(\s+|,\s*)\S -> Continue
   ^\s{20}\s+([^,\s]+(\s+|,\s*)){5}${PORT},*\s*$$
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s*$$
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+${PORT}(\s+|,\s*)\S -> Continue
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+${PORT},*\s*$$
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+[^,\s]+(\s+|,\s*)${PORT}(\s+|,\s*)\S -> Continue
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+[^,\s]+?(\s+|,\s*)${PORT},*\s*$$
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){2}${PORT}(\s+|,\s*)\S -> Continue
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){2}${PORT},*\s*$$
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){3}${PORT}(\s+|,\s*)\S -> Continue
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){3}${PORT},*\s*$$
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){4}${PORT}(\s+|,\s*)\S -> Continue
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){4}${PORT},*\s*$$
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){5}${PORT}(\s+|,\s*)\S -> Continue
-  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){5}${PORT},*\s*$$
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s*$$
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+${PORT}(\s+|,\s*)\S -> Continue
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+${PORT},*\s*$$
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+[^,\s]+(\s+|,\s*)${PORT}(\s+|,\s*)\S -> Continue
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+[^,\s]+?(\s+|,\s*)${PORT},*\s*$$
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){2}${PORT}(\s+|,\s*)\S -> Continue
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){2}${PORT},*\s*$$
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){3}${PORT}(\s+|,\s*)\S -> Continue
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){3}${PORT},*\s*$$
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){4}${PORT}(\s+|,\s*)\S -> Continue
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){4}${PORT},*\s*$$
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){5}${PORT}(\s+|,\s*)\S -> Continue
+  ^\s*(\*\s+R|\*|R|\s)\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+\S+\s+([^,\s]+(\s+|,\s*)){5}${PORT},*\s*$$
   ^-+\+-+
   ^Displaying\s+entries
   ^\s+vlan\s+mac address\s+type\s+learn\s+age\s+ports
@@ -63,7 +63,7 @@ TYPE2
   ^. -> Error
 
 TYPE3
-  ^\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+\S+\s+${PORT}(?:\s|$$) -> Record
+  ^\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+\S+\s+${PORT}(?:\s|$$) -> Record
   ^-+\+-+
   ^Displaying\s+entries
   ^\s+vlan\s+mac address\s+type\s+protocols\s+port
@@ -72,7 +72,7 @@ TYPE3
   ^. -> Error
 
 TYPE4
-  ^\s*${VLAN_ID}\s+${MAC_AADRESS}\s+${TYPE}\s+${PORT}(?:\s|$$) -> Record
+  ^\s*${VLAN_ID}\s+${MAC_ADDRESS}\s+${TYPE}\s+${PORT}(?:\s|$$) -> Record
   ^-+\s+-+
   ^Displaying\s+entries
   ^Vlan\s+Mac Address\s+Type\s+Ports

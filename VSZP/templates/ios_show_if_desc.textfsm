@@ -1,11 +1,17 @@
-# show interface description e.q.:
-#Fa1/0/9                        admin down     down
-#Fa1/0/10                       down           down     >> kamery <<
-#Fa2/0/1                        up             up       >> 02202164-bepon-retail-sk <<
-Value IFNAME (Fa\S+|Gi\S+)
-Value STATUS (admin down|up|down)
-Value PROTOCOL (down|up)
-Value DESCRIPTION (.*)
+Value PORT (\S+)
+Value STATUS (up|down|deleted|admin\s+down)
+Value PROTOCOL (up|down)
+Value DESCRIPTION (\S.*?)
 
 Start
-  ^${IFNAME}\s+${STATUS}\s+${PROTOCOL}\s+${DESCRIPTION} -> Record
+  ^Interface\s+Status\s+Protocol\s+Description\s*$$ -> Begin
+  ^\s*$$
+  # Capture time-stamp if vty line has command time-stamping turned on
+  ^Load\s+for\s+
+  ^Time\s+source\s+is
+  ^. -> Error
+
+Begin
+  ^${PORT}\s+${STATUS}\s+${PROTOCOL}(?:\s+${DESCRIPTION})?\s*$$ -> Record
+  ^\s*$$
+  ^. -> Error

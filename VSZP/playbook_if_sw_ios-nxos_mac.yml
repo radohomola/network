@@ -1,7 +1,7 @@
 # Get mac address table
 
 
-- name: Get MAC address table from Cisco devices
+- name: Get MAC address table from Cisco devices (ios&nxos)
   hosts: all
   gather_facts: no
   connection: ansible.netcommon.network_cli
@@ -21,13 +21,23 @@
       delegate_to: localhost
       run_once: true
 
-    - name: Get MAC address table from devices
+    - name: Get MAC address table from IOS devices
       ansible.utils.cli_parse:
         command: "show mac address-table | e CPU"
         parser:
           name: ansible.utils.textfsm
           template_path: templates/ios_show_mac-address-table.textfsm
         set_fact: mac_address_table
+      when: "'ios' in group_names"
+
+    - name: Get MAC address table from NXOS devices
+      ansible.utils.cli_parse:
+        command: "show mac address-table"
+        parser:
+          name: ansible.utils.textfsm
+          template_path: templates/nxos_show_mac-address-table.textfsm
+        set_fact: mac_address_table
+      when: "'nxos' in group_names"    
 
     - name: Save partial outputs
       ansible.builtin.lineinfile:

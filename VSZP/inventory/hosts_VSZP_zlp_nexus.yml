@@ -1,0 +1,5 @@
+---
+all:
+  hosts:  
+    z-core-sw-1:
+      ansible_host: 10.41.255.6

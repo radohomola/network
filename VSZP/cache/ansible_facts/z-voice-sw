@@ -1,0 +1,69 @@
+{
+    "mac_address_table": [
+        {
+            "MAC_ADDRESS": "000c.2902.de89",
+            "PORT": [
+                "Gi1/0/6"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "107"
+        },
+        {
+            "MAC_ADDRESS": "000c.292e.a2bb",
+            "PORT": [
+                "Gi1/0/6"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "107"
+        },
+        {
+            "MAC_ADDRESS": "000c.29df.a57b",
+            "PORT": [
+                "Gi1/0/5"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "107"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f305",
+            "PORT": [
+                "Gi1/0/48"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "107"
+        },
+        {
+            "MAC_ADDRESS": "4006.d51c.39a0",
+            "PORT": [
+                "Gi1/0/1"
+            ],
+            "TYPE": "STATIC",
+            "VLAN_ID": "107"
+        },
+        {
+            "MAC_ADDRESS": "00d7.8f55.f305",
+            "PORT": [
+                "Gi1/0/48"
+            ],
+            "TYPE": "DYNAMIC",
+            "VLAN_ID": "109"
+        },
+        {
+            "MAC_ADDRESS": "4006.d51c.39a1",
+            "PORT": [
+                "Gi1/0/8"
+            ],
+            "TYPE": "STATIC",
+            "VLAN_ID": "109"
+        }
+    ],
+    "sw_inventory": [
+        {
+            "DESCR": "WS-C2960X-48TD-L",
+            "NAME": "1",
+            "PID": "WS-C2960X-48TD-L",
+            "SN": "FCW1904A1JX",
+            "VID": "V03"
+        }
+    ]
+}

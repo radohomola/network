@@ -1,0 +1,18 @@
+{
+    "sw_inventory": [
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "CISCO1841",
+            "SN": "FCZ103421JE",
+            "VID": "V03"
+        },
+        {
+            "DESCR": "",
+            "NAME": "",
+            "PID": "CISCO1841",
+            "SN": "FCZ103421JE",
+            "VID": "6.0"
+        }
+    ]
+}
