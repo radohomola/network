@@ -1,0 +1,1478 @@
+rd1.38;Fa1/0/1;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa1/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa1/0/4;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/5;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/6;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/7;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/8;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/9;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/18;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/19;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/20;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/22;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/23;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/25;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/26;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/27;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/28;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/29;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+rd1.38;Fa1/0/30;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/31;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/32;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/38;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/39;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/40;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/41;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/42;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/43;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/44;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+rd1.38;Fa1/0/45;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+rd1.38;Fa1/0/46;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+rd1.38;Fa1/0/47;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+rd1.38;Fa1/0/48;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+rd1.38;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+rd1.38;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+rd1.38;Fa2/0/1;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/3;Enabled;static access;static access;negotiate;native;104 (BENU114_VPN);1 (default);none ;ALL
+rd1.38;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/6;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/7;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/8;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 11 (Najomca-FastPlus) ;ALL
+rd1.38;Fa2/0/9;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/10;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/11;Enabled;tunnel;tunnel;negotiate;native;102 (TELEKOM-OC_MLYNY-HUMANIC);1 (default);none ;ALL
+rd1.38;Fa2/0/12;Enabled;tunnel;tunnel;negotiate;native;621 (LAST_MILE_PULLnBEAR);1 (default);none ;ALL
+rd1.38;Fa2/0/13;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/14;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/15;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/16;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/17;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/18;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/19;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/20;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+rd1.38;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Fa2/0/45;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+rd1.38;Fa2/0/46;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+rd1.38;Fa2/0/47;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+rd1.38;Fa2/0/48;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+rd1.38;Gi2/0/1;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;728,1429,1430
+rd1.38;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+rd1.38;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+rd1.38;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+rd1.38;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+switch-new.1pp;Fa1/0/1;Enabled;static access;static access;negotiate;native;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/2;Enabled;static access;down;negotiate;;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/3;Enabled;static access;static access;negotiate;native;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/4;Enabled;static access;static access;negotiate;native;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.1pp;Fa1/0/6;Enabled;tunnel;tunnel;negotiate;native;2826 (02585513-TELEKOM-SLSP);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/7;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/8;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/9;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/10;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.1pp;Fa1/0/11;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.1pp;Fa1/0/12;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.1pp;Fa1/0/13;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/14;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/15;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/16;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/17;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/18;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/19;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/20;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/21;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/22;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/23;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Fa1/0/24;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.1pp;Gi1/0/1;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,2826
+switch-new.1pp;Gi1/0/2;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,2826
+switch-new.1pp;Gi2/0/4;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,2826
+switch-new.1pp;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,2826
+switch-new.3np;Fa1/0/1;Enabled;static access;static access;negotiate;native;44 (siemens_reg);1 (default);none ;ALL
+switch-new.3np;Fa1/0/2;Enabled;static access;down;negotiate;;44 (siemens_reg);1 (default);none ;ALL
+switch-new.3np;Fa1/0/3;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.3np;Fa1/0/4;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.3np;Fa1/0/5;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.3np;Fa1/0/6;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.3np;Fa1/0/7;Enabled;static access;down;negotiate;;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/8;Enabled;static access;down;negotiate;;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/9;Enabled;static access;down;negotiate;;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/10;Enabled;static access;down;negotiate;;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/11;Enabled;static access;down;negotiate;;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/12;Enabled;static access;down;negotiate;;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/13;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/14;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/15;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/16;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/17;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/18;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/19;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/20;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/21;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/22;Enabled;static access;static access;negotiate;native;46 (pokladne);1 (default);none ;ALL
+switch-new.3np;Fa1/0/23;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.3np;Fa1/0/24;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch-new.3np;Gi1/0/1;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch-new.3np;Gi1/0/2;Enabled;trunk;trunk (member of bundle Po3);dot1q;dot1q;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/3;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/4;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/5;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/6;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/7;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/8;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/9;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/10;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/11;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/12;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/13;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/14;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/15;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/16;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/17;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/18;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/19;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/20;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/21;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/22;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/23;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/24;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/25;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/26;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/27;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/28;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/29;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/30;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/31;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/32;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/33;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/34;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/35;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/36;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/37;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/38;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/39;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/40;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/41;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/42;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/43;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/44;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/45;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/46;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/47;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Fa2/0/48;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Gi2/0/1;Enabled;trunk;trunk (member of bundle Po4);dot1q;dot1q;1 (default);1 (default);none ;ALL
+switch-new.3np;Gi2/0/2;Enabled;trunk;trunk (member of bundle Po5);dot1q;dot1q;1 (default);1 (default);none ;ALL
+switch-new.3np;Gi2/0/3;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.3np;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch-new.3np;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch-new.3np;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/1;Enabled;static access;static access;negotiate;native;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.4np;Fa1/0/2;Enabled;static access;static access;negotiate;native;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.4np;Fa1/0/3;Enabled;static access;down;negotiate;;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.4np;Fa1/0/4;Enabled;static access;down;negotiate;;44 (siemenens_reg);1 (default);none ;ALL
+switch-new.4np;Fa1/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.4np;Fa1/0/6;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/7;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/8;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/9;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/10;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.4np;Fa1/0/11;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.4np;Fa1/0/12;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/13;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/14;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/15;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/16;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/17;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/18;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/19;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/20;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/21;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/22;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/23;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/24;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/25;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/26;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/27;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/28;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/29;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/30;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/31;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/32;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/33;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/34;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/35;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/36;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/37;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/38;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/39;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/40;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/41;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/42;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/43;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/44;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/45;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Fa1/0/46;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch-new.4np;Fa1/0/47;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch-new.4np;Fa1/0/48;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch-new.4np;Gi1/0/1;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch-new.4np;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Gi1/0/3;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.4np;Gi1/0/4;Enabled;trunk;down (suspended member of bundle Po2);dot1q;;1 (default);1 (default);none ;2-100
+switch-new.4np;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch-new.4np;;Enabled;trunk;down;dot1q;;unassigned;0 (Inactive);none ;2-100
+switch-new.5np;Fa1/0/1;Enabled;static access;static access;negotiate;native;44 (siemenes_reg);1 (default);none ;ALL
+switch-new.5np;Fa1/0/2;Enabled;static access;down;negotiate;;44 (siemenes_reg);1 (default);none ;ALL
+switch-new.5np;Fa1/0/3;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch-new.5np;Fa1/0/4;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch-new.5np;Fa1/0/5;Enabled;static access;static access;negotiate;native;51 (VOIP);1 (default);none ;ALL
+switch-new.5np;Fa1/0/6;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;15,16,41,47
+switch-new.5np;Fa1/0/7;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/8;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/9;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/10;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.5np;Fa1/0/11;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.5np;Fa1/0/12;Enabled;static access;down;negotiate;;51 (VOIP);1 (default);none ;ALL
+switch-new.5np;Fa1/0/13;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/14;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/15;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/16;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/17;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/18;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/19;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/20;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/21;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/22;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/23;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/24;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Fa1/0/25;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/26;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/27;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/28;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/29;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/30;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/31;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/32;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/33;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/34;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/35;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/36;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/37;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/38;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/39;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/40;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/41;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/42;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/43;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/44;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/45;Enabled;static access;static access;negotiate;native;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/46;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/47;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Fa1/0/48;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch-new.5np;Gi1/0/1;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch-new.5np;Gi1/0/2;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch-new.5np;Gi1/0/3;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch-new.5np;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch-new.5np;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.16;Fa2/0/1;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/2;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/3;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/6;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/7;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/8;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/9;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/10;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/11;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/12;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/13;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/14;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/15;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/16;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/17;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/18;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/19;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/20;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/21;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/22;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/23;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/25;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.16;Fa2/0/26;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.16;Fa2/0/27;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.16;Fa2/0/28;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.16;Fa2/0/29;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.16;Fa2/0/30;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch0.16;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/33;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/34;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.16;Fa2/0/35;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/36;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/37;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/38;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/39;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/40;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/41;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/42;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/43;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/44;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/45;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/46;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Fa2/0/47;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch0.16;Fa2/0/48;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch0.16;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.16;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.16;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.16;;Enabled;trunk;down;dot1q;;unassigned;0 (Inactive);none ;2-100,984
+switch0.16;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.22;Fa1/0/1;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/2;Enabled;static access;static access;negotiate;native;51 (VOIP);1 (default);none ;ALL
+switch0.22;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/18;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/19;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/20;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/22;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/23;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch0.22;Fa1/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/31;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch0.22;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch0.22;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch0.22;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch0.22;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch0.22;Fa1/0/38;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch0.22;Fa1/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa1/0/43;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch0.22;Fa1/0/44;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch0.22;Fa1/0/45;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch0.22;Fa1/0/46;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch0.22;Fa1/0/47;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch0.22;Fa1/0/48;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch0.22;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.22;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.22;Fa2/0/1;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/2;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/3;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/6;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/7;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/8;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/9;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/10;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/11;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/12;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/13;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/14;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/15;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/16;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/17;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/18;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/19;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/20;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/21;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/22;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/23;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch0.22;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Fa2/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch0.22;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.22;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch0.22;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch1.03;Fa1/0/1;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch1.03;Fa1/0/2;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch1.03;Fa1/0/3;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch1.03;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/17;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/18;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/19;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/20;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/22;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/23;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/24;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.03;Fa1/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/31;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.03;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.03;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.03;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.03;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.03;Fa1/0/38;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.03;Fa1/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa1/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,983,1104
+switch1.03;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,983,1104
+switch1.03;Fa2/0/1;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/2;Enabled;static access;down;negotiate;;1104 (SWAN-OC_MLYNY-DEDOLES);1 (default);none ;ALL
+switch1.03;Fa2/0/3;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/5;Enabled;tunnel;tunnel;negotiate;native;983 (BENESTRA-OC_MLYNY-MBANK);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/6;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/7;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/8;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/9;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/10;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/11;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/12;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/13;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/14;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/15;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/16;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/17;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/18;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/19;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/20;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.03;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Fa2/0/44;Enabled;static access;static access;negotiate;native;42 (Reklama);1 (default);none ;ALL
+switch1.03;Fa2/0/45;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.03;Fa2/0/46;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.03;Fa2/0/47;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.03;Fa2/0/48;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.03;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.03;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,983,1104
+switch1.03;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,983,1104
+switch1.03;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,983,1104
+switch1.38;Fa1/0/1;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa1/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa1/0/4;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/5;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/6;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/7;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/8;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/9;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/18;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/19;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/20;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/22;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/23;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/25;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/26;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/27;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/28;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/29;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.38;Fa1/0/30;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/31;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/32;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/38;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/39;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/40;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/41;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/42;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/43;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/44;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.38;Fa1/0/45;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.38;Fa1/0/46;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.38;Fa1/0/47;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.38;Fa1/0/48;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.38;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+switch1.38;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+switch1.38;Fa2/0/1;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/3;Enabled;static access;static access;negotiate;native;104 (BENU114_VPN);1 (default);none ;ALL
+switch1.38;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/6;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/7;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/8;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 11 (Najomca-FastPlus) ;ALL
+switch1.38;Fa2/0/9;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/10;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/11;Enabled;tunnel;tunnel;negotiate;native;102 (TELEKOM-OC_MLYNY-HUMANIC);1 (default);none ;ALL
+switch1.38;Fa2/0/12;Enabled;tunnel;tunnel;negotiate;native;621 (LAST_MILE_PULLnBEAR);1 (default);none ;ALL
+switch1.38;Fa2/0/13;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/14;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/15;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/16;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/17;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/18;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/19;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/20;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.38;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Fa2/0/45;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.38;Fa2/0/46;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.38;Fa2/0/47;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.38;Fa2/0/48;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch1.38;Gi2/0/1;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;728,1429,1430
+switch1.38;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.38;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+switch1.38;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+switch1.38;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,102,104,621,728,1429,1430
+switch1.47;Fa1/0/1;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch1.47;Fa1/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/14;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/16;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/17;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/18;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/19;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/20;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/21;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/22;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/23;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Fa1/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/31;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.47;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch1.47;Fa1/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa1/0/36;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/37;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/38;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/39;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/40;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/41;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/42;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/43;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/44;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/45;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/46;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/47;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Fa1/0/48;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch1.47;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,968
+switch1.47;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,968
+switch1.47;Fa2/0/1;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.47;Fa2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/3;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.47;Fa2/0/4;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.47;Fa2/0/6;Enabled;trunk;down;dot1q;;1 (default);1 (default);none ;3457
+switch1.47;Fa2/0/7;Enabled;trunk;down;dot1q;;1 (default);1 (default);none ;3457
+switch1.47;Fa2/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/10;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/11;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/12;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/13;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/14;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/15;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/16;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/17;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/18;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/19;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/20;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.47;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.47;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Fa2/0/48;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch1.47;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch1.47;Gi2/0/2;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch1.47;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,968
+switch1.47;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,968
+switch1.47;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,968
+switch2.22;Fa1/0/1;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch2.22;Fa1/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/10;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/11;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/12;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/13;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/14;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/15;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/16;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/17;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/18;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/19;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/20;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/21;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/22;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/23;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.22;Fa1/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/31;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch2.22;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch2.22;Fa1/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa1/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,103,2806
+switch2.22;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,103,2806
+switch2.22;Fa2/0/1;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/2;Enabled;static access;static access;negotiate;native;103 (BENU34_VPN);1 (default);none ;ALL
+switch2.22;Fa2/0/3;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/6;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/7;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/8;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/9;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/10;Enabled;static access;static access;negotiate;native;2806 (TCOM-OC_MLYNY-ALPINE);1 (default);none ;ALL
+switch2.22;Fa2/0/11;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/12;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/13;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/14;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/15;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/16;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/17;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/18;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/19;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/20;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.22;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Fa2/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.22;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,2806
+switch2.22;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,2806
+switch2.22;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,103,2806
+switch2.22;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,2806
+switch2.28;Fa1/0/1;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch2.28;Fa1/0/2;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch2.28;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/18;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/19;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/20;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/22;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/23;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/24;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/25;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/26;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/27;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/28;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/29;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/30;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/31;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.28;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch2.28;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch2.28;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch2.28;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch2.28;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch2.28;Fa1/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa1/0/47;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch2.28;Fa1/0/48;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch2.28;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,970,2223,2826,3457
+switch2.28;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,970,2223,2826,3457
+switch2.28;Fa2/0/1;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/2;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/3;Enabled;trunk;down;dot1q;;1 (default);1 (default);none ;3457
+switch2.28;Fa2/0/4;Enabled;tunnel;tunnel;negotiate;native;2223 (02925414;TELEKOM;;C&A;);1 (default);none ;ALL
+switch2.28;Fa2/0/5;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/6;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/7;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/8;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/9;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/10;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/11;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/12;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/13;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/14;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/15;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/16;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/17;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/18;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/19;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/20;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/21;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/22;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/23;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/24;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/25;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/26;Enabled;static access;static access;negotiate;native;970 (BENESTRA-OC_MLYNY-POSTA);1 (default);none ;ALL
+switch2.28;Fa2/0/27;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/28;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/29;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/30;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.28;Fa2/0/33;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/34;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/35;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/36;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/37;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/38;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/39;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/40;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/41;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/42;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/43;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/44;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Fa2/0/45;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch2.28;Fa2/0/46;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch2.28;Fa2/0/47;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch2.28;Fa2/0/48;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch2.28;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.28;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,970,2223,2826,3457
+switch2.28;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,970,2223,2826,3457
+switch2.28;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,957,970,2223,2826,3457
+switch2.30;Fa1/0/1;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/14;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/15;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/16;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/17;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/18;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/19;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/20;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/21;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/22;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/23;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch2.30;Fa1/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.30;Fa1/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.30;Fa1/0/33;Enabled;static access;static access;negotiate;native;2841 (02955907;TCOM(CK-KARTAGO);MPLS-X);1 (default);none ;ALL
+switch2.30;Fa1/0/34;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.30;Fa1/0/35;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.30;Fa1/0/36;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.30;Fa1/0/37;Enabled;static access;static access;negotiate;native;957 (BENESTRA-OC_MLYNY-KARTAGO);1 (default);none ;ALL
+switch2.30;Fa1/0/38;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch2.30;Fa1/0/39;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Fa1/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch2.30;Gi1/0/1;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,2841
+switch2.30;Gi1/0/2;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,2841
+switch2.30;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,2841
+switch2.30;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,957,2841
+switch2.30;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,957,2841
+switch3.03;Fa1/0/1;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch3.03;Fa1/0/2;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch3.03;Fa1/0/3;Enabled;static access;down;negotiate;;81 (APmgmt);1 (default);none ;ALL
+switch3.03;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/10;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/18;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/19;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/20;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/21;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/22;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/23;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.03;Fa1/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/31;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.03;Fa1/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa1/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.03;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.03;Fa2/0/1;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/2;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/3;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/6;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/7;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/8;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/9;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/10;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/11;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/12;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/13;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/14;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/15;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/16;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/17;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/18;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/19;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/20;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.03;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Fa2/0/45;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch3.03;Fa2/0/46;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch3.03;Fa2/0/47;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch3.03;Fa2/0/48;Enabled;static access;down;negotiate;;42 (Reklama);1 (default);none ;ALL
+switch3.03;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.03;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.03;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.03;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.18;Fa1/0/1;Enabled;static access;down;negotiate;;81 (APmgmt);1 (default);none ;ALL
+switch3.18;Fa1/0/2;Enabled;static access;down;negotiate;;81 (APmgmt);1 (default);none ;ALL
+switch3.18;Fa1/0/3;Enabled;static access;down;negotiate;;15 (Ustredna);1 (default);none ;ALL
+switch3.18;Fa1/0/4;Enabled;static access;static access;negotiate;native;43 (rozne);1 (default);none ;ALL
+switch3.18;Fa1/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.18;Fa1/0/6;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.18;Fa1/0/7;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.18;Fa1/0/8;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch3.18;Fa1/0/9;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/15;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/18;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/19;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/20;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/22;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/23;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/25;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/26;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/27;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/28;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/29;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/30;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/31;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa1/0/32;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/33;Enabled;static access;down;negotiate;;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/38;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/39;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/40;Enabled;static access;static access;negotiate;native;40 (EPS);1 (default);none ;ALL
+switch3.18;Fa1/0/41;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/42;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/43;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/44;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.18;Fa1/0/45;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.18;Fa1/0/46;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.18;Fa1/0/47;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.18;Fa1/0/48;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.18;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,728,954,957,958,961,963,965,967,968,972,983,1417,
+switch3.18;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100,728,954,957,958,961,963,965,967,968,972,983,1417,
+switch3.18;Fa2/0/1;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch3.18;Fa2/0/2;Enabled;static access;down;negotiate;;44 (siemens_reg);1 (default);none ;ALL
+switch3.18;Fa2/0/3;Enabled;static access;static access;negotiate;native;44 (siemens_reg);1 (default);none ;ALL
+switch3.18;Fa2/0/4;Enabled;static access;down;negotiate;;44 (siemens_reg);1 (default);none ;ALL
+switch3.18;Fa2/0/5;Enabled;static access;down;negotiate;;44 (siemens_reg);1 (default);none ;ALL
+switch3.18;Fa2/0/6;Enabled;static access;static access;negotiate;native;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch3.18;Fa2/0/7;Enabled;static access;down;negotiate;;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch3.18;Fa2/0/8;Enabled;static access;static access;negotiate;native;47 (manazment_mlyny_l2);1 (default);none ;ALL
+switch3.18;Fa2/0/9;Enabled;static access;down;negotiate;;43 (rozne);1 (default);none ;ALL
+switch3.18;Fa2/0/10;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/11;Enabled;static access;down;negotiate;;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/12;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/13;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/14;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/15;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;728,2394
+switch3.18;Fa2/0/16;Enabled;tunnel;tunnel;negotiate;native;958 (BENESTRA-OC_MLYNY-PANTA_RHEI);1 (default);none ;ALL
+switch3.18;Fa2/0/17;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/18;Enabled;tunnel;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/19;Enabled;tunnel;tunnel;negotiate;native;961 (BENESTRA-OC_MLYNY-VUB2);1 (default);none ;ALL
+switch3.18;Fa2/0/20;Enabled;tunnel;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/21;Enabled;tunnel;tunnel;negotiate;native;965 (BENESTRA-OC_MLYNY-TATRABANKA);1 (default);none ;ALL
+switch3.18;Fa2/0/22;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/23;Enabled;static access;static access;negotiate;native;967 (BENESTRA-OC_MLYNY-TATRABANKA2);1 (default);none ;ALL
+switch3.18;Fa2/0/24;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/25;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/26;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/27;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/28;Enabled;tunnel;tunnel;negotiate;native;972 (BENESTRA-OC_MLYNY-TCHIBO);1 (default);none ;ALL
+switch3.18;Fa2/0/29;Enabled;static access;static access;negotiate;native;51 (VOIP_VPBX);1 (default);none ;ALL
+switch3.18;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.18;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.18;Fa2/0/33;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;1417,1418
+switch3.18;Fa2/0/34;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.18;Fa2/0/35;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.18;Fa2/0/36;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/37;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/38;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/39;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/40;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/41;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/42;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/43;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/44;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/45;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.18;Fa2/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Fa2/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.18;Gi2/0/1;Enabled;trunk;down;dot1q;;1 (default);1 (default);none ;728
+switch3.18;Gi2/0/2;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;728,2217,2218
+switch3.18;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100,728,954,957,958,961,963,965,967,968,972,983,1417,
+switch3.18;Gi2/0/4;Enabled;trunk;down (suspended member of bundle Po2);dot1q;;1 (default);1 (default);none ;2-100,728,954,957,958,961,963,965,967,968,972,983,1417,
+switch3.18;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100,728,954,957,958,961,963,965,967,968,972,983,1417,
+switch3.29;Fa1/0/1;Enabled;static access;static access;negotiate;native;81 (APmgmt);1 (default);none ;ALL
+switch3.29;Fa1/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/18;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/19;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/20;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/22;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/23;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/24;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/25;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/26;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/27;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/28;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/29;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/30;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.29;Fa1/0/31;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.29;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.29;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.29;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.29;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.29;Fa1/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa1/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-101,1103
+switch3.29;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-101,1103
+switch3.29;Fa2/0/1;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/3;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 14 (Najomca-Gastro) ;ALL
+switch3.29;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/5;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/6;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/7;Enabled;tunnel;tunnel;negotiate;native;1103 (SWAN_MM-MEDICAL_MR_OC_MLYNY);1 (default);none ;ALL
+switch3.29;Fa2/0/8;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/9;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/10;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/11;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/12;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/13;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/14;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/15;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/16;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 11 (Najomca-FastPlus) ;ALL
+switch3.29;Fa2/0/17;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.29;Fa2/0/18;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/19;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/20;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/31;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Fa2/0/47;Enabled;tunnel;down;negotiate;;101 (BENESTRA-VUB-NR_OC_MLYNY);1 (default);none ;ALL
+switch3.29;Fa2/0/48;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.29;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.29;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-101,1103
+switch3.29;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-101,1103
+switch3.29;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-101,1103
+switch3.37;Fa1/0/1;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/2;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/3;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/4;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/5;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/6;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/7;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/8;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/9;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/10;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/11;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/12;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/13;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/14;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/15;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/16;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/17;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/18;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/19;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/20;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/21;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/22;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/23;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/24;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/25;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/26;Enabled;static access;static access;negotiate;native;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/27;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/28;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/29;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/30;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/31;Enabled;static access;down;negotiate;;16 (DohladKamery);1 (default);none ;ALL
+switch3.37;Fa1/0/32;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/33;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.37;Fa1/0/34;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.37;Fa1/0/35;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.37;Fa1/0/36;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.37;Fa1/0/37;Enabled;static access;static access;negotiate;native;41 (SALTO-SKV);1 (default);none ;ALL
+switch3.37;Fa1/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa1/0/42;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.37;Fa1/0/43;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.37;Fa1/0/44;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.37;Fa1/0/45;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.37;Fa1/0/46;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.37;Fa1/0/47;Enabled;static access;down;negotiate;;18 (ParkingSystem);1 (default);none ;ALL
+switch3.37;Fa1/0/48;Enabled;static access;static access;negotiate;native;18 (ParkingSystem);1 (default);none ;ALL
+switch3.37;Gi1/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Gi1/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Gi1/0/3;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.37;Gi1/0/4;Enabled;trunk;trunk (member of bundle Po1);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.37;Fa2/0/1;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/2;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/3;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/4;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/5;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/6;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/7;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/8;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/9;Enabled;private-vlan host;private-vlan host;negotiate;native;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/10;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/11;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/12;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/13;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/14;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/15;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/16;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/17;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/18;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/19;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/20;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/21;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/22;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/23;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/24;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/25;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/26;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/27;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/28;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/29;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/30;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/31;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/32;Enabled;private-vlan host;down;negotiate;;1 (default);1 (default);13 (Najomcovia-primarna) 12 (Najomcovia) ;ALL
+switch3.37;Fa2/0/33;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/34;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/35;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/36;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/37;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/38;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/39;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/40;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/41;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/42;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/43;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/44;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/45;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/46;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/47;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Fa2/0/48;Enabled;static access;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Gi2/0/1;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Gi2/0/2;Enabled;dynamic auto;down;negotiate;;1 (default);1 (default);none ;ALL
+switch3.37;Gi2/0/3;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.37;Gi2/0/4;Enabled;trunk;trunk (member of bundle Po2);dot1q;dot1q;1 (default);1 (default);none ;2-100
+switch3.37;;Enabled;trunk;trunk;dot1q;dot1q;1 (default);1 (default);none ;2-100

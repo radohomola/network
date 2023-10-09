@@ -1,0 +1,7 @@
+﻿hostname,ip_address
+z-aggr-sw,10.41.64.13
+z-dmz-sw,10.41.7.13
+z-hmc-sw,10.41.65.42
+z-ilo-sw,10.41.65.2
+z-intradmz-sw,10.41.7.16
+z-voice-sw,10.41.22.10

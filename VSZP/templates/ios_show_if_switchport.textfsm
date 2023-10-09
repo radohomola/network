@@ -1,0 +1,48 @@
+# show interfaces switchport e.q.:
+#Name: Fa2/0/34
+#Switchport: Enabled
+#Administrative Mode: private-vlan host
+#Operational Mode: private-vlan host
+#Administrative Trunking Encapsulation: negotiate
+#Operational Trunking Encapsulation: native
+#Negotiation of Trunking: Off
+#Access Mode VLAN: 1 (default)
+#Trunking Native Mode VLAN: 1 (default)
+#Administrative Native VLAN tagging: enabled
+#Voice VLAN: none
+#Administrative private-vlan host-association: 13 (Najomcovia-primarna) 12 (Najomcovia)
+#Administrative private-vlan mapping: none
+#Administrative private-vlan trunk native VLAN: none
+#Administrative private-vlan trunk Native VLAN tagging: enabled
+#Administrative private-vlan trunk encapsulation: dot1q
+#Administrative private-vlan trunk normal VLANs: none
+#Administrative private-vlan trunk associations: none
+#Administrative private-vlan trunk mappings: none
+#Operational private-vlan:
+#  13 (Najomcovia-primarna) 12 (Najomcovia)
+#Trunking VLANs Enabled: ALL
+#Pruning VLANs Enabled: 2-1001
+#Capture Mode Disabled
+#Capture VLANs Allowed: ALL
+Value IFNAME (Fa\S+|Gi\S+)
+Value SWITCHPORT (\S+)
+Value ADMIN_MODE (.+)
+Value OPER_MODE (.+)
+Value ADMIN_TRUNK (.+)
+Value OPER_TRUNK (.+)
+Value ACCESS_MODE_VLAN (.+)
+Value NATIVE_VLAN (.+)
+Value PRIV_VLAN (.+)
+Value TRUNK_VLAN (.+)
+
+Start
+  ^Name: ${IFNAME}
+  ^Switchport: ${SWITCHPORT} 
+  ^Administrative Mode: ${ADMIN_MODE} 
+  ^Operational Mode: ${OPER_MODE}
+  ^Administrative Trunking Encapsulation: ${ADMIN_TRUNK}
+  ^Operational Trunking Encapsulation: ${OPER_TRUNK}
+  ^Access Mode VLAN: ${ACCESS_MODE_VLAN} 
+  ^Trunking Native Mode VLAN: ${NATIVE_VLAN}
+  ^Administrative private-vlan host-association: ${PRIV_VLAN} 
+  ^Trunking VLANs Enabled: ${TRUNK_VLAN} -> Record

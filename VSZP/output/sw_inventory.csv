@@ -1,0 +1,96 @@
+HOSTNAME;ITEM NAME;DESCRIPTION;PID;VID;SN
+rd1.38;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2S4
+rd1.38;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12160H6D
+rd1.38;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12160H88
+rd1.38;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2U3
+rd1.38;GigabitEthernet2/0/1;1000BaseLX;Unspecified; ;OP50L3350
+rd1.38;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12160H7V
+rd1.38;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12160YWN
+switch-new.1pp;1;WS-C3750V2-24PS;WS-C3750V2-24PS-E;V08;FDO1809Y09E
+switch-new.1pp;GigabitEthernet1/0/1;1000BaseSX;Unspecified; ;FNS1137S212
+switch-new.1pp;GigabitEthernet1/0/2;1000BaseSX;Unspecified; ;FNS1137S217
+switch-new.3np;2;WS-C3750V2-48PS;WS-C3750V2-48PS-E;V09;FDO1812Y14R
+switch-new.3np;GigabitEthernet2/0/1;1000BaseSX;Unspecified; ;FNS1137S224
+switch-new.3np;GigabitEthernet2/0/2;1000BaseSX;Unspecified; ;FNS10251796
+switch-new.3np;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS1137S214
+switch-new.3np;1;WS-C3750V2-24PS;WS-C3750V2-24PS-E;V08;FDO1809Y09Y
+switch-new.3np;GigabitEthernet1/0/1;1000BaseSX;Unspecified; ;FNS1137S211
+switch-new.3np;GigabitEthernet1/0/2;1000BaseSX;Unspecified; ;FNS10251795
+switch-new.4np;1;WS-C3750V2-48PS;WS-C3750V2-48PS-E;V09;FDO1812Y16K
+switch-new.4np;GigabitEthernet1/0/1;1000BaseSX;Unspecified; ;FNS1137S215
+switch-new.4np;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS1137S213
+switch-new.5np;1;WS-C3750V2-48PS;WS-C3750V2-48PS-E;V09;FDO1812Y164
+switch-new.5np;GigabitEthernet1/0/1;1000BaseSX;Unspecified; ;FNS1137S218
+switch-new.5np;GigabitEthernet1/0/2;10/100/1000BaseTX;GLC-T;V04;144600025
+switch-new.5np;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS1137S216
+switch0.16;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2VT
+switch0.16;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12160H6N
+switch0.16;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12160H77
+switch0.22;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2U4
+switch0.22;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS121704GD
+switch0.22;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12160H6Q
+switch0.22;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2VP
+switch0.22;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12160H57
+switch0.22;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS121704RU
+switch1.03;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y30M
+switch1.03;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS121610H4
+switch1.03;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12150XKQ
+switch1.03;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2S2
+switch1.03;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS121610GA
+switch1.03;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12150XM3
+switch1.38;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2S4
+switch1.38;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12160H6D
+switch1.38;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12160H88
+switch1.38;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2U3
+switch1.38;GigabitEthernet2/0/1;1000BaseLX;Unspecified; ;OP50L3350
+switch1.38;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12160H7V
+switch1.38;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12160YWN
+switch1.47;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y30J
+switch1.47;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12160H5A
+switch1.47;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12160H6U
+switch1.47;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2XP
+switch1.47;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12160H5Q
+switch1.47;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12160H7B
+switch2.22;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2W3
+switch2.22;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12161EX5
+switch2.22;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS121704NP
+switch2.22;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2WD
+switch2.22;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12161EVP
+switch2.22;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12161EYL
+switch2.28;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y30N
+switch2.28;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS1216003P
+switch2.28;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12160032
+switch2.28;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2Y4
+switch2.28;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS121704NU
+switch2.28;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS121704Q1
+switch2.30;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y30L
+switch2.30;GigabitEthernet1/0/1;1000BaseSX;Unspecified; ;FNS121610HN
+switch2.30;GigabitEthernet1/0/2;1000BaseSX;Unspecified; ;FNS121610FU
+switch2.30;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12161EUM
+switch2.30;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS121704QS
+switch3.03;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2WE
+switch3.03;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12150XHS
+switch3.03;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12150XWL
+switch3.03;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2W9
+switch3.03;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12160034
+switch3.03;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS1216002F
+switch3.18;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2VJ
+switch3.18;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12150XPW
+switch3.18;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12160041
+switch3.18;2;WS-C3750-48P;WS-C3750-48PS-E;V07;CAT1106NJG3
+switch3.18;GigabitEthernet2/0/1;1000BaseBX10-D;GLC-BX-D;V02;BD10SGCC860213
+switch3.18;GigabitEthernet2/0/2;1000BaseSX;SFP-GE-S;V01;SFC1760164
+switch3.18;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12160H4Q
+switch3.18;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS121612M5
+switch3.29;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y30T
+switch3.29;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12150AV4
+switch3.29;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12150AU9
+switch3.29;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2WC
+switch3.29;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS12161ESD
+switch3.29;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12161EVV
+switch3.37;1;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2RX
+switch3.37;GigabitEthernet1/0/3;1000BaseSX;Unspecified; ;FNS12160XNB
+switch3.37;GigabitEthernet1/0/4;1000BaseSX;Unspecified; ;FNS12160V88
+switch3.37;2;WS-C3750-48P;WS-C3750-48PS-E;V06;FDO1223Y2S1
+switch3.37;GigabitEthernet2/0/3;1000BaseSX;Unspecified; ;FNS1216003H
+switch3.37;GigabitEthernet2/0/4;1000BaseSX;Unspecified; ;FNS12150AVT

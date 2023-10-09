@@ -1,0 +1,15 @@
+---
+all:
+  hosts:  
+    z-aggr-sw:
+      ansible_host: 10.41.64.13
+    z-dmz-sw:
+      ansible_host: 10.41.7.13
+    z-hmc-sw:
+      ansible_host: 10.41.65.42
+    z-ilo-sw:
+      ansible_host: 10.41.65.2
+    z-intradmz-sw:
+      ansible_host: 10.41.7.16
+    z-voice-sw:
+      ansible_host: 10.41.22.10
